@@ -3,6 +3,7 @@ layout: default
 title: new
 parent: Unreal
 nav_order: 2
+permalink: /docs/ui-components
 ---
 
 # Color Utilities
