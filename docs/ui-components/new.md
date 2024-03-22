@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lists
+title: new
 parent: UI Components
 nav_order: 8
 ---
