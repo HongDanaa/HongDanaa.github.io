@@ -3,7 +3,7 @@ title: UNREAL
 layout: default
 nav_order: 5
 has_children: true
-permalink: /docs/Unreal
+permalink: /docs/ui-components
 ---
 
 # Layout
